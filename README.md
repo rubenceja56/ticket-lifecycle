@@ -19,31 +19,38 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Intake
 - Assignment and Communication
-- Working the Issue
-- Resolution
+- Resolving the issue and closing the ticket
 
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Backend user creates ticket](https://github.com/user-attachments/assets/55193f6a-688e-4577-9ae2-74cb74588daa)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The cycle of a ticket starts with its creation. Here back end user selects category and afterwards fills out a short description of the current issue they're having.
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Agen John Notes](https://github.com/user-attachments/assets/78e98746-a228-4417-a456-be7c41bbaf75)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After ticket is created a helpdesk Agent whose been granted "access" can view the ticket and begin working on it. He may add notes as well that can be seen internally only or even notes that the end-user would be able to view so they may be kept in the loop of what is the status of there ticket.
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Resolve and close ticket](https://github.com/user-attachments/assets/db2b4b09-c6ea-483c-9c37-b5637e71ae3a)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After an agent, in this case Jane, figures out a solution for the ticket and resolves the issue the agent will then proceed to update the status of the ticket and mark the ticket as "resolved." This will remove the ticket off the list of "open" tickets into "closed" tickets.
 </p>
 <br />
